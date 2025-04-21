@@ -1,0 +1,69 @@
+
+-->
+
+
+<h1 align="center">👋 ¡Hola, soy <span style='color:#00AEEF'>Diego Alejandro Figueroa Martínez</span>!</h1>
+
+<p align="center">🧑‍💻 Estudiante de programación | ⚽ Amante del fútbol | 🎵 Fan de la música</p>
+
+
+---
+ 
+
+
+ 
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding gif"/>
+ 
+
+
+ 
+
+---
+
+## ✨ Sobre mí
+
+Me apasiona todo lo relacionado con el mundo del desarrollo y la tecnología.  
+Actualmente estoy **estudiando programación** y explorando diferentes áreas para convertirme en un gran desarrollador.
+
+🧠 Me defino como **curioso, constante y creativo**.
+
+---
+
+## ⚽ Fútbol: Mi deporte favorito
+
+> \"El fútbol no es solo un deporte, ¡es una forma de vida!\"
+
+📍 Posición favorita: Delantero  
+🏆 Jugador favorito: Lionel Messi  
+
+---
+
+
+## 🎵 Mi vida con música
+
+🎧 Siempre programando con música.  
+🎸 Estilos favoritos:
+- Trap
+- Electrónica
+- Lo-fi
+
+---
+
+
+## 🎮 Fan de los videojuegos
+
+🎯 Mis géneros favoritos:
+- Acción
+- Aventura
+- Indie creativos
+
+🕹️ Sueño con crear mis propios juegos algún día
+
+---
+
+ 
+## 💻 Programando el presente
+
+```python
+print(\"¡Hola desde Python!\")
